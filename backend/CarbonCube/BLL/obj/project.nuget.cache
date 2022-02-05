@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zoKCFcNrecvcMYNY7PKSpTgOkv2YFjxjJGcevciaTvE/idT1tVvNPgW/Sord7Q3xI7zm3KoJyj8pQb7z9rIZjg==",
+  "dgSpecHash": "oYBr95zt5jvabKbbS7fTlVUh6iLKmwOnS+uKf+8aMAcyeyg1S9V5iTtfVkM/sWXwE7XtJACQNAAuihl7bxNzpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Muaz\\Desktop\\CarbonCubeTechnicalAssement\\backend\\CarbonCube\\BLL\\BLL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Muaz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Muaz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Muaz\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Muaz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

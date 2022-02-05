@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "GiiFk0pUkUwSDsOQ/DUWshJq78Di2Ltipcf9uVzwaZ7YkLh6H698SovdClClxai/6v2Abf14eq+aaqvmSsDYyg==",
+  "dgSpecHash": "oEeCilcX9wX4BGgNm7dLXyhSFJ3+GdBJXEYhdz97p3cR3JiKx8oToqsBe0mCdf5/QlCBvcDS37B2pEoHB37lzw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Muaz\\Desktop\\CarbonCubeTechnicalAssement\\backend\\CarbonCube\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Muaz\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\Muaz\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "C:\\Users\\Muaz\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+    "C:\\Users\\Muaz\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\Muaz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Muaz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\Muaz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Muaz\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Muaz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
