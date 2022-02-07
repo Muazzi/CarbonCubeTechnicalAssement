@@ -64,6 +64,15 @@ namespace API
                 });
             });
 
+            services.AddCors(option =>
+            {
+
+                option.AddDefaultPolicy(builder =>
+                {
+                    builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+
+                });
+            });
             
             DLLDepdancy.AllDepandancies(services, Configuration);
             BLLDepandancy.AllDepandancies(services, Configuration);
@@ -82,6 +91,7 @@ namespace API
             app.UseHttpsRedirection();
 
             app.UseRouting();
+            app.UseCors();
 
             app.UseAuthorization();
 
