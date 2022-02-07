@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fONuxeRr9een81dbjxtz6NdktUZmDo4rDOzlvPJa5hHRXJBZ8mYAsikYv0tM9XA+axvia8HrO04tgK84mdvzuw==",
+  "dgSpecHash": "kvLjCm6s9cpp1jb0no+UPaeOV8av03iMwOw6I3VO8tnbALoMYZb43FUmWJo7uXkTJ3V9O+IcNug2vl0WbqHDyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Muaz\\Desktop\\CarbonCubeTechnicalAssement\\backend\\CarbonCube\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muaz\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\Muaz\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
     "C:\\Users\\Muaz\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+    "C:\\Users\\Muaz\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
     "C:\\Users\\Muaz\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\Muaz\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.13\\microsoft.entityframeworkcore.5.0.13.nupkg.sha512",
     "C:\\Users\\Muaz\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.13\\microsoft.entityframeworkcore.abstractions.5.0.13.nupkg.sha512",

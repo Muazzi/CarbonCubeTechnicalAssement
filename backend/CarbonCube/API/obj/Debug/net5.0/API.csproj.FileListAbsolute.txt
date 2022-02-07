@@ -31,3 +31,17 @@ C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\obj\Deb
 C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\obj\Debug\net5.0\API.pdb
 C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\BLL.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\DLL.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\BLL.pdb
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\API\bin\Debug\net5.0\DLL.pdb
