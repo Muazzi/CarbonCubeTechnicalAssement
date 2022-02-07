@@ -1,3 +1,5 @@
+using BLL;
+using DLL;
 using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -61,8 +63,10 @@ namespace API
                     }
                 });
             });
-            //DLLDepdancy.AllDepadancies(services, Configuration);
-            //BLLDepandacy.AllDepadancies(services, Configuration);
+
+            
+            DLLDepdancy.AllDepandancies(services, Configuration);
+            BLLDepandancy.AllDepandancies(services, Configuration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
