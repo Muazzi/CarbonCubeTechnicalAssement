@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "g6U8v/bWBi9Uuh4NjXAqxdjGWtAZNK7lnfVz9lzRyT+NLhc5JL7EhhZTUIWQkooxivrsJjH1e8WAIrePLZlSdQ==",
+  "dgSpecHash": "E7qMWj6auefCYUm1XwtIdXq3gsDAruX8rtKtI7GTX0MLx0L/FDJATvyjrxmrmi16mswMUPQko6Nh3Zs0uGNYEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Muaz\\Desktop\\CarbonCubeTechnicalAssement\\backend\\CarbonCube\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Muaz\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\Muaz\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "C:\\Users\\Muaz\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\Muaz\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
     "C:\\Users\\Muaz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Muaz\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
