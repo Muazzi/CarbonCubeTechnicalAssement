@@ -1,0 +1,17 @@
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\bin\Debug\net5.0\DLL.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\bin\Debug\net5.0\Utilities.dll
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\bin\Debug\net5.0\DLL.pdb
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\bin\Debug\net5.0\Utilities.pdb
+C:\Users\Muaz\Desktop\CarbonCubeTechnicalAssement\backend\CarbonCube\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
